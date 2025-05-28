@@ -7,13 +7,15 @@ def fact(n):
         return n*fact(n-1)
 
 def main():
-    number = int (input("Enter a number : "))
-    if number<0:
-        print("Enter a Valid number :")
+    while True:
+        number = int (input("Enter a number : "))
+        if number<0:
+            print("Enter a Valid number \n")
 
-    else :
-        result = fact(number)
-        print(f"Factorial of number : {result}")
+        else :
+            result = fact(number)
+            print(f"Factorial of number : {result}")
+            break
 
 #Calling main Function
 main()
