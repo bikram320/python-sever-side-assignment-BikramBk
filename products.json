@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Kitkat",
+        "price": 50.0,
+        "quantity": 5
+    },
+    {
+        "name": "Oreo",
+        "price": 60.0,
+        "quantity": 3
+    },
+    {
+        "name": "Lays",
+        "price": 50.0,
+        "quantity": 4
+    }
+]

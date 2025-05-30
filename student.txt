@@ -1,3 +1,4 @@
 Student Name   
-Bikram Bk
-Kripsan thakuri
+bikram         
+kripsan        
+Cristiano      
